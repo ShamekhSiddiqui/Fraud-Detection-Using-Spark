@@ -1,14 +1,15 @@
-# cs6240-course-project
-
+# Fraud Detection using Spark (Scalable ML) and AWS
 
 
 ==========================
 
-![img_2.png](img_2.png)
-![img_4.png](img_4.png)
-![img_3.png](img_3.png)
-![img_5.png](img_5.png)
-![img_6.png](img_6.png)
+This project involved solving:
+
+Problem 1: Classification and prediction ensembles using existing libraries for in-memory processing on a single machine (spark) by training individual models using existing libraries - scikit learn and coding the parallel framwork of ensemble from scratch. 
+
+Problem 2: Classification and prediction in spark MLlib by training models using decision trees and random forest - MLlib libraries
+
+========================== 
 
 This project consists of several folders, each serving a specific purpose. Below is an overview of the folders and their contents:
 
