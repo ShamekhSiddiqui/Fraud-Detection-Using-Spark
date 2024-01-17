@@ -4,6 +4,12 @@
 
 ==========================
 
+![img_2.png](img_2.png)
+![img_4.png](img_4.png)
+![img_3.png](img_3.png)
+![img_5.png](img_5.png)
+![img_6.png](img_6.png)
+
 This project consists of several folders, each serving a specific purpose. Below is an overview of the folders and their contents:
 
 - **conf**: Contains the `install_python_dependencies.sh` file used for bootstrapping in AWS before executing the PySpark script.
